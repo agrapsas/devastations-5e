@@ -20,8 +20,11 @@
 |CHA| 5 |(-3)|
 
 Damage Immunities `Poison`, `Psychic`, `Bludgeoning`, `Piercing`
+
 Condition Immunities `Charmed`, `Exhausted`, `Frightened`, `Paralyzed`, `Petrified`, `Poisoned`
+
 Senses `Darkvision 120`, `PP 10`
+
 Languages `Old Haelden`
 
 **Magic Resistance** Advantage on saves against magic
