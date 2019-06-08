@@ -6,11 +6,17 @@ This is a list of all races that players can use in Earauth. If a race is not li
 
 ### Humans
 
-Humans make up the largest population on Earauth. They have dominated the world through their sheer numbers and might. As such, most areas of the world are inhabited by humans.
+Humans are the primary occupants of Earauth and act like humans usually do: conquering, destroying, crushing, and ruining. Rich forests have become vast wastelands in the name of militant progress, sludge has flooded fertile plains, and, ultimately, other races have been violently relocated over time.
 
 ### Elves
 
 There once were grand elvish empires. They are a thing of the past. Only remnants remain in far off hidden lands, carefully guarded by dwindling populations.
+
+Major wars have been financed by first invading, destroying, and maliciously raiding elven holdings, stealing all precious materials in addition to physically enslaving the elven people. The population of elves has, historically, been moderated by repeated purges.
+
+Elves are generally born into slavery, owned by high families across the globe, and are valued as teachers and personal guards. With a deep magical intuition and a genetics-based memory, small wars have been fought over the few remaining fair folk. The occasional elf is sent to die in fighting pits or mines; but, usually this is as a last resort, a means of making an example of an unruly slave so that others will heed warning.
+
+Although they are slaves, elves are also feared creatures. Most individuals give the fair folk a wide berth, especially as they are the favored servants of powerful families.
 
 Elves are common anywhere wealth exists. They live to serve -- literally. The Yellith Empire and other peoples maintain working populations of elves as skilled slaves. These slaves often become trusted companions of the family and are passed down from generation to generation as a token of recognition.
 
@@ -67,7 +73,7 @@ Any half-elf found is killed or brought before a lord for judgement (which will 
 
 ### Halflings
 
-They live in hills and forests, keeping away from the violence of the world. Many exude a level of innocence. Most humans would mistake a halfling for a child or perhaps a human with dwarfism.
+They live in hills and forests, keeping away from the violence of the world. Many exude a level of innocence. Most humans would mistake a halfling for a child or perhaps a human with dwarfism. Ancestral homes have long ago been abandoned in favor of further and further homesteads, often fracturing families and disrupting happy lineages.
 
 ### Gnomes
 
