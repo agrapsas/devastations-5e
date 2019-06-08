@@ -28,6 +28,10 @@ They exist. They are extremely rare. Players that wish to play a "free" elf and 
 
 An escaped elf is hunted relentlessly and killed on sight. There is no room for disobedience in the Yellith Empire.
 
+#### Gender
+
+Elves are gender fluid. They choose a new gender to become and over the course of several years their bodies adapt and evolve to that gender. They may also choose to remain in a state of transition. Often times, owners of elves will demand they become or remain a specific gender. Some elves prefer one gender to another while others prefer frequent transitions.
+
 ### Dwarves
 
 Dwarves are free and live in strongholds set in the sides of mountains; but, freedom comes at a cost. All dwarven populations owe fielty to the Yellith Empire and must allow their young men to be conscripted for war (usually as skilled labor). After a tour of duty, dwarves are allowed back to their communities to do what they do best: produce the much needed arms, armor, and items required by the Yellith war machine.
