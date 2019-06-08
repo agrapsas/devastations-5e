@@ -26,7 +26,7 @@ They exist. They are extremely rare. Players that wish to play a "free" elf and 
 
 #### Escaped Elves
 
-An escaped elf is hunting relentlessly and killed on sight. There is no room for disobedience in the Yellith Empire.
+An escaped elf is hunted relentlessly and killed on sight. There is no room for disobedience in the Yellith Empire.
 
 ### Dwarves
 
