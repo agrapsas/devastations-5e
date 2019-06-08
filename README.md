@@ -1,6 +1,12 @@
-# Earauth Dungeons & Dragons Campaign
+# Earauth Dungeons & Dragons Campaign Setting
 
-This repository contains everything created for the Earauth D&D campaign setting.
+Earauth is a dark and dangerous place full of death, misery, and oppression. Life is fragile and unfair and the inhabitants of these lands have witnessed countless atrocities and felt the sting of a whip enough times to know better than to rebel, resist, or make the wrong kind of eye contact.
+
+War rages seasonally across the beleaguered countryside as families, countries, and cultures battle over resources spread across the globe. The people are dragged into endless conflict.
+
+This is not a place for heroes. Those that would stand up, be heard, and resist are immediately branded as enemies and meet gruesome ends.
+
+This is a bleak world, a world of malice and revenge, this is Earauth.
 
 ## Index
 
