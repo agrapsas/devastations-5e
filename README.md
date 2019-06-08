@@ -7,3 +7,4 @@ This repository contains everything created for the Earauth D&D campaign setting
 - [Monsters](monsters)
 - [Player Races](player_races/player_races.md)
 - [Regions](regions)
+- [Religion](religion)
